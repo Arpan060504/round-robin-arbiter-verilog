@@ -335,9 +335,9 @@ This project demonstrates:
 
 # Author
 
-**Arpan Das**
+**Arpan Chandra**
 
-B.Tech Electrical Engineering
+B.Tech Electrical Engineering 2023-27
 
 National Institute of Technology Durgapur
 
